@@ -3,13 +3,22 @@
 
 <img src="splash.png">
 
-• Cipher
-• Heterogram Checker
-• Invoice Template Generator
-• Keylogger
-• Number Tracker
+• Cipher 
+
+• Heterogram Checker 
+
+• Invoice Template Generator 
+
+• Keylogger 
+
+• Number Tracker 
+
 • Password Generator
+
 • Pseudocode Convertor
+
 • Text to Ascii Art
+
 • Text to Speech 
+
 • YouTube Video Downloader
