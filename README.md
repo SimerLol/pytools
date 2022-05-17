@@ -3,7 +3,7 @@
 
 <img src="splash.png">
 
-• Cipher 
+• Cipher
 • Heterogram Checker
 • Invoice Template Generator
 • Keylogger
